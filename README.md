@@ -2,7 +2,7 @@
 
 ### ɴɪxᴀ ᴍᴜsɪᴄ+sᴘᴀᴍ ʙᴏᴛ ɪꜱ ᴀ ᴛᴇʟᴇɢʀᴀᴍ ᴘʀᴏᴊᴇᴄᴛ ʙᴀꜱᴇᴅ ᴏɴ ᴘʏʀᴏɢʀᴀᴍ ꜰᴏʀ ᴘʟᴀʏ ᴍᴜꜱɪᴄꜱ ɪɴ ᴠᴄ ᴄʜᴀᴛꜱ...
 
-<p align="center"><a href="https://t.me/TechQuard"><img src="https://te.legra.ph/file/084c206996897e2d42443.jpg" width="300"></a></p>
+<p align="center">https://t.me/hindi_chat_dear_zindagi"><img src="https://te.legra.ph/file/084c206996897e2d42443.jpg" width="300"></a></p>
 <p align="center">
     🧪 ɢᴇᴛ sᴛʀɪɴɢ sᴇssɪᴏɴ ꜰʀᴏᴍ ʜᴇʀᴇ:
 
@@ -31,4 +31,4 @@
 [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/Sumit9969/NixaMusicBot)
 
 ### ꜱᴜᴘᴘᴏʀᴛ ᴀɴᴅ ᴜᴘᴅᴀᴛᴇꜱ
-<a href="https://t.me/TechQuardSupport"><img src="https://img.shields.io/badge/Join-Group%20Support-black.svg?style=for-the-badge&logo=Telegram"></a> <a href="https://t.me/TechQuard"><img src="https://img.shields.io/badge/Join-Updates%20Channel-black.svg?style=for-the-badge&logo=Telegram"></a>
+<a href="https://t.me/hindi_chat_dear_zindagi><img src="https://img.shields.io/badge/Join-Group%20Support-black.svg?style=for-the-badge&logo=Telegram"></a> <a href="https://t.me/TechQuard"><img src="https://img.shields.io/badge/Join-Updates%20Channel-black.svg?style=for-the-badge&logo=Telegram"></a>
